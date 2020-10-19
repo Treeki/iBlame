@@ -1,0 +1,11 @@
+{
+    "emails_dir": "emails",
+    "imap_ssl_hostname": "imap.fastmail.com",
+    "imap_username": "......@fastmail.com",
+    "imap_password": "......",
+    "imap_folder": "\"iTunes Invoices\"",
+    "billed_to_combo": "Store Credit and American Express",
+    "billed_to_prefix": "Amex ....",
+    "total_keywords": "American Express Total",
+    "currency": "£"
+}
